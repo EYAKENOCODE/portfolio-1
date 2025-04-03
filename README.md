@@ -74,7 +74,7 @@
         <h2>About Me</h2>
         
         <p>
-            Hi, I am <strong>Eyakeno Robert</strong>. a versatile developer with expertise in the LAMP (Linux, Apache, MySQL, PHP) stack             and Laravel framework, combined with a passion for crafting exceptional user experiences. As a professional UI/UX designer,              I specialize in blending functionality and aesthetics, ensuring that every application is efficient, intuitive, and visually             captivating.
+           I am a full-stack digital marketer with expertise in various aspects of online marketing. My skills include social media marketing, SEO, PPC advertising, content creation, email marketing, web developement, project management and data analytics. I also specialize in advertising, tech education, and IT services through my platforms like Stack Africa and Gorilla.
         </p>
         
         <ul>
